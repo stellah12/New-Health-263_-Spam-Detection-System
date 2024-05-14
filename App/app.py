@@ -5,7 +5,7 @@ from nltk.corpus import stopwords
 import nltk
 import os
 
-path = r"C:\Users\Rufaro\Desktop\Work related learning documents (Stellah)\documents\New Health263 Spam Detection"
+path = r"C:\Users\Rufaro\New-Health-263_-Spam-Detection-System"
 os.chdir(path)
 
 
